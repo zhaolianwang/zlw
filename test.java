@@ -8,6 +8,7 @@ public class test {
 	   System.out.println(new Object().getClass());
 	   System.out.println(Object[].class);
 	   Git Test;
+		Test;
 
    }
 }
